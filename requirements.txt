@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+python-bcb
+plotly
+matplotlib
+seaborn
+kaleido
